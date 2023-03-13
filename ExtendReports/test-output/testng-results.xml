@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-18T11:16:02 IST" name="Default suite" finished-at="2023-01-18T11:16:18 IST" duration-ms="15451">
+    <groups>
+    </groups>
+    <test started-at="2023-01-18T11:16:02 IST" name="Default test" finished-at="2023-01-18T11:16:18 IST" duration-ms="15451">
+      <class name="SeleniumPractices.ExtendReports.Extendsreports">
+        <test-method is-config="true" signature="config()[pri:0, instance:SeleniumPractices.ExtendReports.Extendsreports@1ddf84b8]" started-at="2023-01-18T11:16:02 IST" name="config" finished-at="2023-01-18T11:16:03 IST" duration-ms="745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method signature="initialdemo()[pri:0, instance:SeleniumPractices.ExtendReports.Extendsreports@1ddf84b8]" started-at="2023-01-18T11:16:03 IST" name="initialdemo" finished-at="2023-01-18T11:16:18 IST" duration-ms="14630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialdemo -->
+      </class> <!-- SeleniumPractices.ExtendReports.Extendsreports -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
